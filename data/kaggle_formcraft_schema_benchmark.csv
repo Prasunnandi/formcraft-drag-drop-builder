@@ -1,0 +1,6 @@
+form_id,title,category,fields_count,conditional_rules_count,submissions_count,completion_rate_pct,avg_time_to_complete_sec,status,schema_format
+FORM-101,Customer CSAT & Product Feedback Survey,Customer Experience,6,2,1420,84.5,95,PUBLISHED,JSON_SCHEMA_DRAFT_07
+FORM-102,Employee Equipment & Hardware Requisition,Internal IT Operations,8,3,580,92.0,140,PUBLISHED,JSON_SCHEMA_DRAFT_07
+FORM-103,B2B Enterprise Lead Qualification Form,Sales & Marketing,5,1,3240,71.2,60,PUBLISHED,JSON_SCHEMA_DRAFT_07
+FORM-104,Security Incident & Bug Report Intake,DevOps & Security,9,4,310,88.4,180,PUBLISHED,JSON_SCHEMA_DRAFT_07
+FORM-105,Vendor Compliance & KYC Onboarding,Legal & Procurement,12,5,195,79.0,240,DRAFT,JSON_SCHEMA_DRAFT_07
